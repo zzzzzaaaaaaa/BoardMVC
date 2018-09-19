@@ -1,0 +1,41 @@
+table, tr, th ,td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding-right: 15px;
+	padding-left: 15px;	
+}
+
+.tblDiv
+{
+	/* text-align: center; */
+	display: grid;
+	align-items: center;
+	justify-content: center;
+}
+
+.title
+{
+	width:500px;
+}
+.text-center
+{
+	text-align: center;
+}
+.sctCls2
+{
+	text-align: center;
+}
+.before
+{
+	
+}
+.next
+{
+	
+}
+.right
+{
+	display: flex;
+	float: right;
+}

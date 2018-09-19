@@ -1,0 +1,54 @@
+.divCls
+{
+	width: 100%;
+}
+.navCls
+{
+	width: 100%;
+}
+.tblCls
+{
+	width:100%;
+}
+table, tr, th
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.textcenter
+{
+	text-align: center;
+}
+.num
+{
+	width: 5%;	
+}
+.title
+{
+	width: 80%;
+}
+.time
+{
+	width: 15%;
+}
+.sctCls
+{
+	width: 100%;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.sctCls2
+{
+	text-align: center;
+}
+.before
+{
+	display: grid;
+	float: left;
+}
+.next
+{
+	display: grid;
+	float: right;
+}
